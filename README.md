@@ -1,3 +1,8 @@
+# Ravenous
+Integration of Yelp API with React to showcase nearest food chains, sorted by Best Match, Highest Rated and Most Reviewed
+
+Stack: React, JavaScript, Bootstrap , CSS, HTML, Jenkins, AWS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
